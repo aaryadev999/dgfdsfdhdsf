@@ -1,0 +1,39 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+p {
+    padding-top:100px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aqua;
+    box-shadow: 10px 5px 5px lime;
+}
+h1{
+    box-shadow: 10px 5px 5px lime;
+    color: aqua
+}
+canvas{
+    border:10px dashed black;
+    border-radius:30px;
+    animation-name: bla_bla_bah_bah_black_sheep;
+    margin-top: 750px;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+    box-shadow: 10px 5px 5px lime;
+}
